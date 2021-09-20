@@ -3,6 +3,6 @@ public class Main {
         int ticketPrice = 3600;
         int priceOfOneBonusMile = 20;
         int onlyMiles = ticketPrice / priceOfOneBonusMile;
-        System.out.println(onlyMiles);
+        System.out.println("Количество бонусных милль:"+ onlyMiles);
     }
 }
